@@ -31,4 +31,4 @@ Our team contributed to create this useful app, which is fully acting such as po
 * Rachel Bae
 * Cheyeon Lee
 
-![Alt text](gs://oskj-5ed7f.appspot.com/Simulator Screen Shot - iPhone 11 - 2021-04-19 at 00.12.02.png "a title")
+![Alt text](https://firebasestorage.googleapis.com/v0/b/oskj-5ed7f.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-04-19%20at%2000.12.02.png?alt=media&token=da6830ad-e099-4a59-b7b9-ad8d12a428f6 "a title")
