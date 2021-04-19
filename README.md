@@ -3,7 +3,7 @@
 Our team contributed to create this useful app, which is fully acting such as posting, comparing, likes, sending email to landlord, maps, and pagination. Our team was composed of 2 developers, 1 marketer, 3 designers, and my roles were lead developer and team leader.
 
 ## Video
-[![Link to App Simulation Video]](https://www.youtube.com/watch?v=VGT1ebh8y7s)
+[Link to App Simulation Video](https://www.youtube.com/watch?v=VGT1ebh8y7s)
 
 ## ScreenShots
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/oskj-5ed7f.appspot.com/o/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-04-19%20at%2000.12.02.png?alt=media&token=da6830ad-e099-4a59-b7b9-ad8d12a428f6 "image")
