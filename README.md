@@ -30,3 +30,5 @@ Our team contributed to create this useful app, which is fully acting such as po
 * Matthew Kim
 * Rachel Bae
 * Cheyeon Lee
+
+![Alt text](gs://oskj-5ed7f.appspot.com/Simulator Screen Shot - iPhone 11 - 2021-04-19 at 00.12.02.png "a title")
