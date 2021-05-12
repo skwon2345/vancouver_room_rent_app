@@ -37,10 +37,9 @@ Our team contributed to create this useful app, which is fully acting such as po
 ## Contributor
 
 * Sukkwon On (Team Lead)
-* Minjae Shin
-* Jongwon Lim
-* Matthew Kim
-* Rachel Bae
-* Cheyeon Lee
-
-
+* Minjae Shin (Developer)
+* Jongwon Lim (UX/UI Designer)
+* * Rachel Bae (UX/UI Designer)
+* Cheyeon Lee (UX/UI Designer)
+* Matthew Kim (Marketing)
+* Jinwook Ryu (Marketing)
